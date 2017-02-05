@@ -6,9 +6,9 @@ Step#2: Run As Java Application (src/main/java/ShoppingCart.java)
 
 Step#3: Check the console for system logs.
 
-Product data is located in (/src/main/resources/products.csv)
+Product data in (/src/main/resources/products.csv)
 
-Test data configured in (src/main/resources/pricing_rules.properties)
+Test data configuration (src/main/resources/pricing_rules.properties)
 
 # Console Output:
 Scenario#1
